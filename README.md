@@ -172,6 +172,10 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 <img width="1920" height="1020" alt="Screenshot 2026-11-16 183036" src="https://github.com/user-attachments/assets/f411468e-2a01-4578-968b-fb015269a6cc" />
 
 
+Result:
+Thus, the 4-bit Serial-In Parallel-Out Shift Register was designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE
+
+
 
 
 
